@@ -16,8 +16,10 @@
 }
 
 .c {
+  width: 100%;
   padding: 50px;
   margin-left: 100px;
   border: 1px solid black;
   color: rebeccapurple;
+  overflow: visible;
 }
