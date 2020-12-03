@@ -1,0 +1,23 @@
+.a {
+  text-align: center;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  color: blue;
+  font-family: fantasy;
+}
+
+.b {
+  width: 50%;
+  height: auto;
+  padding: 50px;
+  margin: 20px;
+}
+
+.c {
+  padding: 50px;
+  margin-left: 100px;
+  border: 1px solid black;
+  color: rebeccapurple;
+}
